@@ -3,7 +3,7 @@ img{
 }
 
 
-body{
+/* body{
  background: #f0f9ff; /* Old browsers */
  background: -moz-linear-gradient(top, #FF0000 100%, #339AFF 47%); /* FF3.6-15 */
  background: -webkit-linear-gradient(top, #CB33FF 100%,#33F7FF 47%); /* Chrome10-25,Safari5.1-6 */
@@ -11,5 +11,8 @@ body{
  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 );
  background-repeat:no-repeat;
 }
+ */
 
-
+body{
+   background: blue;
+}
