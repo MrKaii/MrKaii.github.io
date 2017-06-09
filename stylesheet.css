@@ -12,3 +12,7 @@ background: -ms-linear-gradient(top, rgba(247,52,52,1) 0%, rgba(247,52,52,1) 7%,
 background: linear-gradient(to bottom, rgba(247,52,52,1) 0%, rgba(247,52,52,1) 7%, rgba(54,223,245,1) 49%, rgba(230,39,39,1) 93%, rgba(230,39,39,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f73434', endColorstr='#e62727', GradientType=0 );
 }
+
+#new_img{
+ opacity: 0; 
+}
