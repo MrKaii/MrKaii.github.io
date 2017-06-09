@@ -6,7 +6,3 @@ $(document).ready(function(){
     $("#new_img").css("opacity","1");
   });
 });
-
-
-  $("img").click(function(){
-    alert("sam is trash in nba2k17");
