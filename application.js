@@ -3,7 +3,7 @@ $(document).ready(function(){
     alert("sam is trash in nba2k17");
   });
   $("#3rd").click(function(){
-    alert("sam is trash in nba2k17");
+    $("#new_img").css("opacity","1");
   });
 });
 
